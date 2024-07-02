@@ -36,7 +36,8 @@
   },
   "keywords": [
     "hash-worker",
-    "hash"
+    "hash",
+    "worker pool"
   ],
   "license": "MIT",
   "dependencies": {
